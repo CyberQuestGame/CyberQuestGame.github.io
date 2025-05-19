@@ -1,0 +1,22 @@
+# Setup
+title:        CyberQuest
+tagline:      Cyber awareness game for children and parents
+baseurl:      ""
+paginate:     1
+locale:       "en"
+show_downloads: "false"
+# google_analytics: [Your Google Analytics tracking ID]
+
+# About/contact
+author:
+  name:       Dr. Asma Adnane
+  url:        https://www.lboro.ac.uk/departments/compsci/staff/asma-adnane/
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+
+plugins: [jekyll-paginate]
