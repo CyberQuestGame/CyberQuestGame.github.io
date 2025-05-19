@@ -4,7 +4,7 @@
 
 layout: default
 title: Welcome to CyberQuest Project
-permalink: /index
+permalink: /
 ---
 
 CyberQuest Project !

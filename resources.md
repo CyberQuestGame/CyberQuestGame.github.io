@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: CyberQuest Project
+title: CyberQuest Game
 permalink: /resources
 ---
 
