@@ -24,7 +24,8 @@ title:        CyberQuest
 # description: >- 
 #   A game to teach children and their parents ...
 tagline:      Cyber awareness game for children and parents
-baseurl:      ""
+url: "https://cyberquestgame.github.io/"
+baseurl: "/CyberQuestGame.github.io"  # if using project site, omit for user site
 paginate:     1
 locale:       "en"
 show_downloads: "false"
