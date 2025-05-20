@@ -24,11 +24,14 @@ title:        CyberQuest
 # description: >- 
 #   A game to teach children and their parents ...
 tagline:      Cyber awareness game for children and parents
-url: "https://cyberquestgame.github.io/"
-baseurl: "/CyberQuestGame.github.io"  # if using project site, omit for user site
+domain: cyberquestgame.github.io/
+url: https://cyberquestgame.github.io/
+# description: Cyber awareness game for children and parents
+show_downloads: false
+theme: jekyll-cayman
+
 paginate:     1
 locale:       "en"
-show_downloads: "false"
 # google_analytics: [Your Google Analytics tracking ID]
 
 # About/contact
@@ -50,4 +53,8 @@ plugins:
   - jekyll-remote-theme  # Required for GitHub Pages
   
 github:
+  is_user_page: true
   is_project_page: false
+  owner_url: https://github.com/asmaadnane
+  owner_name: Asmaadnane
+  owner_gravatar_url: /assets/images/octocat.png
