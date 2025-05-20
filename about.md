@@ -5,13 +5,16 @@ title: About Us
 Our Team
 ===========
 
-* [Dr. Magdalena Zajaczkowska](https://www.lboro.ac.uk/departments/compsci/staff/magdalena-zajaczkowska/) [ - Email](emailto:M.A.Zajaczkowska@lboro.ac.uk)
-* [Dr. Asma Adnane](https://www.lboro.ac.uk/departments/compsci/staff/asma-adnane/) [ - Email](emailto:a.adnane@lboro.ac.uk)
-* [Prof. Oli Buckley](https://www.lboro.ac.uk/departments/compsci/staff/oli-buckley/) [ - Email](emailto:o.buckly@lboro.ac.uk)
+- **Dr. Magdalena Zajaczkowska** [Academic profile](https://www.lboro.ac.uk/departments/compsci/staff/magdalena-zajaczkowska/)  
+| [Email](emailto:M.A.Zajaczkowska@lboro.ac.uk)
+- **Dr. Asma Adnane** [Academic profile](https://www.lboro.ac.uk/departments/compsci/staff/asma-adnane/)  
+| [Email](emailto:a.adnane@lboro.ac.uk)
+- **Prof. Oli Buckley** [Academic profile](https://www.lboro.ac.uk/departments/compsci/staff/oli-buckley/)  
+| [Email](emailto:o.buckly@lboro.ac.uk)
 
 Research assistants:
 ----------------------
-* Akshara Venkatesh: [Linkedin profile](https://www.linkedin.com/in/akshara-venkatesh-a2151a194/)
+* **Akshara Venkatesh**: [Linkedin profile](https://www.linkedin.com/in/akshara-venkatesh-a2151a194/)
 	- is committed to creating accessible solutions to real-world challenges, with a particular 
 	focus on cybersecurity education. In the past, Akshara has been part of a student-led 
 	effort to promote female empowerment in technology, working with 'Girls in Tech' to 
@@ -21,12 +24,12 @@ Research assistants:
 	in the tech space. 
 	Outside of her academics, Akshara enjoys netball, exploring new places, 
 	and is a classically trained pianist and violinist. 
-* Jack Humphrey: [Linkedin profile](https://www.linkedin.com/in/jack-humphrey-548426222/)
+* **Jack Humphrey**: [Linkedin profile](https://www.linkedin.com/in/jack-humphrey-548426222/)
 	- Jack Humphrey is passionate about making complex technical concepts easy to understand. 
 	In his final year at university, he focused heavily on cyber security, exploring the 
 	field’s challenges and innovations. Outside of tech, Jack is a keen water-sports 
 	enthusiast who loves being on or in the water whenever he gets the chance.
-* Karishma Patel: [Linkedin profile](https://www.linkedin.com/in/karishma-patel-a1385a208/)
+* **Karishma Patel**: [Linkedin profile](https://www.linkedin.com/in/karishma-patel-a1385a208/)
 	- Karishma Patel is a dedicated and hardworking individual with a strong passion for 
 	enhancing cybersecurity education for children. 
 	During her final year of university, she conducted comprehensive research 
