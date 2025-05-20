@@ -5,11 +5,14 @@ title: About Us
 Our Team
 ===========
 
-- **Dr. Magdalena Zajaczkowska** [Academic profile](https://www.lboro.ac.uk/departments/compsci/staff/magdalena-zajaczkowska/)  
+- **Dr. Magdalena Zajaczkowska** 
+	[Academic profile](https://www.lboro.ac.uk/departments/compsci/staff/magdalena-zajaczkowska/)  
 | [Email](emailto:M.A.Zajaczkowska@lboro.ac.uk)
-- **Dr. Asma Adnane** [Academic profile](https://www.lboro.ac.uk/departments/compsci/staff/asma-adnane/)  
+- **Dr. Asma Adnane** 
+	[Academic profile](https://www.lboro.ac.uk/departments/compsci/staff/asma-adnane/)  
 | [Email](emailto:a.adnane@lboro.ac.uk)
-- **Prof. Oli Buckley** [Academic profile](https://www.lboro.ac.uk/departments/compsci/staff/oli-buckley/)  
+- **Prof. Oli Buckley** 
+	[Academic profile](https://www.lboro.ac.uk/departments/compsci/staff/oli-buckley/)  
 | [Email](emailto:o.buckly@lboro.ac.uk)
 
 Research assistants:
