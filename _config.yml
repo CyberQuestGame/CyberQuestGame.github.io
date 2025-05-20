@@ -28,9 +28,9 @@ domain: cyberquestgame.github.io/
 url: https://cyberquestgame.github.io/
 # description: Cyber awareness game for children and parents
 show_downloads: false
-theme: cayman
+theme: jekyll-theme-cayman
 
-paginate:     1
+# paginate:     1
 locale:       "en"
 # google_analytics: [Your Google Analytics tracking ID]
 
@@ -39,9 +39,6 @@ author:
   name:       Dr. Asma Adnane
   url:        https://www.lboro.ac.uk/departments/compsci/staff/asma-adnane/
 
-# Gems
-gems:
-  - jekyll-paginate
 
 #Others
 markdown: kramdown
@@ -58,3 +55,7 @@ github:
   owner_url: https://github.com/asmaadnane
   owner_name: Asmaadnane
   owner_gravatar_url: /assets/images/octocat.png
+  
+  
+env:
+  JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
