@@ -4,7 +4,7 @@
 
 layout: default
 title: Welcome to CyberQuest Project
-# permalink: /
+permalink: /index
 ---
 
 CyberQuest Project !
@@ -17,9 +17,11 @@ CyberQuest is a game for year 5 & 6 children.
 > 28% of year 6 children feel their caregivers don't show interest in their internet use*
 
 
-Our project, funded by the Cyber Local 2024–2025 initiative, aims to strengthen the cyber security sector in the East Midlands by developing innovative regional activities and events.
+Our project, funded by the Cyber Local 2024–2025 initiative, aims to strengthen the 
+cyber security sector in the East Midlands by developing innovative regional activities and events.
 
-Led by **Loughborough university**, the project is supported by Innovate UK in collaboration with the Department for Science, Innovation and Technology (DSIT).
+Led by **Loughborough university**, the project is supported by Innovate UK 
+in collaboration with the Department for Science, Innovation and Technology (DSIT).
 
 CyberQuest Game
 ===============
