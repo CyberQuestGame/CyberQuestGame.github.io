@@ -5,13 +5,22 @@ title: About Us
 Our Team
 ===========
 
-* [Dr. Magdalena Zajaczkowska](emailto:M.A.Zajaczkowska@lboro.ac.uk)
-* [Dr. Asma Adnane](emailto:a.adnane@lboro.ac.uk)
-* [Prof. Oli Buckley](emailto:o.buckly@lboro.ac.uk)
+* [Dr. Magdalena Zajaczkowska](https://www.lboro.ac.uk/departments/compsci/staff/magdalena-zajaczkowska/) [ - Email](emailto:M.A.Zajaczkowska@lboro.ac.uk)
+* [Dr. Asma Adnane](https://www.lboro.ac.uk/departments/compsci/staff/asma-adnane/) [ - Email](emailto:a.adnane@lboro.ac.uk)
+* [Prof. Oli Buckley](https://www.lboro.ac.uk/departments/compsci/staff/oli-buckley/) [ - Email](emailto:o.buckly@lboro.ac.uk)
 
 Research assistants:
 ----------------------
-* Akshara Venkatesh: [Linkedin profile]()
+* Akshara Venkatesh: [Linkedin profile](https://www.linkedin.com/in/akshara-venkatesh-a2151a194/)
+	- is committed to creating accessible solutions to real-world challenges, with a particular 
+	focus on cybersecurity education. In the past, Akshara has been part of a student-led 
+	effort to promote female empowerment in technology, working with 'Girls in Tech' to 
+	introduce coding to girls as young as 11 - well before it was formally offered in her 
+	school's curriculum. She also co-organised Singapore’s first women and non-binary student 
+	hacking competition, demonstrating her ongoing commitment to diversity and inclusion 
+	in the tech space. 
+	Outside of her academics, Akshara enjoys netball, exploring new places, 
+	and is a classically trained pianist and violinist. 
 * Jack Humphrey: [Linkedin profile](https://www.linkedin.com/in/jack-humphrey-548426222/)
 	- Jack Humphrey is passionate about making complex technical concepts easy to understand. 
 	In his final year at university, he focused heavily on cyber security, exploring the 
