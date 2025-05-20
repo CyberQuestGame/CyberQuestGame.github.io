@@ -11,7 +11,7 @@ Our Team
 - **Dr. Asma Adnane** 
 	[Academic profile](https://www.lboro.ac.uk/departments/compsci/staff/asma-adnane/)  
 | [Email](emailto:a.adnane@lboro.ac.uk)
-- **Prof. Oli Buckley** 
+- **Prof. Oli Buckley**
 	[Academic profile](https://www.lboro.ac.uk/departments/compsci/staff/oli-buckley/)  
 | [Email](emailto:o.buckly@lboro.ac.uk)
 
