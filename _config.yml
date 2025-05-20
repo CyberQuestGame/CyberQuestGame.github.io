@@ -28,7 +28,7 @@ domain: cyberquestgame.github.io/
 url: https://cyberquestgame.github.io/
 # description: Cyber awareness game for children and parents
 show_downloads: false
-theme: jekyll-cayman
+theme: cayman
 
 paginate:     1
 locale:       "en"

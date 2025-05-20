@@ -45,3 +45,4 @@ gemspec
 gem 'jekyll-paginate'
 gem 'kramdown'
 gem 'pygments.rb'
+gem "jekyll-theme-cayman"
