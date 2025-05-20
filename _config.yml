@@ -26,7 +26,7 @@ title:        CyberQuest
 tagline:      Cyber awareness game for children and parents
 domain: cyberquestgame.github.io
 url: https://cyberquestgame.github.io/
-# description: Cyber awareness game for children and parents
+description: Cyber awareness game for children and parents
 show_downloads: false
 theme: jekyll-theme-cayman
 
