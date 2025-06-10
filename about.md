@@ -15,10 +15,17 @@ Our Team
 	[Academic profile](https://www.lboro.ac.uk/departments/compsci/staff/oli-buckley/)  
 | [Email](emailto:o.buckly@lboro.ac.uk)
 
+Game design and graphics:
+----------------------
+* **Jake Montanarini** 
+	[Academic profile](https://norwichuni.ac.uk/about-us/meet-our-staff/jake-montanarini/)  
+* **Jake Bacon** 
+	[Linkedin profile](https://uk.linkedin.com/in/jake-bacon-28375329a)
+
 Research assistants:
 ----------------------
 * **Akshara Venkatesh**: [Linkedin profile](https://www.linkedin.com/in/akshara-venkatesh-a2151a194/)
-	- is committed to creating accessible solutions to real-world challenges, with a particular 
+	- Akshara Venkatesh is committed to creating accessible solutions to real-world challenges, with a particular 
 	focus on cybersecurity education. In the past, Akshara has been part of a student-led 
 	effort to promote female empowerment in technology, working with 'Girls in Tech' to 
 	introduce coding to girls as young as 11 - well before it was formally offered in her 
@@ -44,3 +51,4 @@ Research assistants:
 	impact through education. Outside of her academic work, she is a keen netball player, 
 	an avid runner, and enjoys spending time with friends and family. 
 	(Check Karishma's materials in [Resources section](resources/) )
+
